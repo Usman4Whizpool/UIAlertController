@@ -11,5 +11,7 @@
 @interface ViewController : UIViewController
 
 
+-(IBAction)OnClickChooseColor:(id)sender;
+
 @end
 
